@@ -1,0 +1,23 @@
+#contenedor-1{
+    width: 300px;
+    height: 50px;
+    background-color:black ;
+}
+#contenedor-2{
+    width: 300px;
+    height: 50px;
+    background-color:red ;
+}
+#contenedor-3{
+    width: 300px;
+    height: 50px;
+    background-color: yellow;
+}
+.contenedor1{
+      margin-top:20px;
+    margin-bottom: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border-radius: 50%;
+}
