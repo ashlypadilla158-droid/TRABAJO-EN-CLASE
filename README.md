@@ -1,2 +1,2 @@
-# TRABAJO-EN-CLASE
-TRABAJO EN CLASE
+# Trabajo en clase
+Trabajo
